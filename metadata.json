@@ -1,0 +1,7 @@
+{
+  "name": "TeamTime Pro",
+  "description": "A comprehensive internal tool for employee time management, holiday booking, extra hours tracking, and manager approvals.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
